@@ -27,6 +27,6 @@ function x() {
     }
 
     console.log("Namaste Javascript");
-}
+};
 
 x();
